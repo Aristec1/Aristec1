@@ -1,4 +1,4 @@
-> <img src = "https://i.gifer.com/7pC8.gif">
+> ![img](https://i.gifer.com/7pC8.gif)
 
 <br/>
 
