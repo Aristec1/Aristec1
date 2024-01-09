@@ -1,7 +1,3 @@
-> ![img](https://i.gifer.com/7pC8.gif)
-
-<br/>
-
 > # Hellow World! Me chamo Ariston, mas pode me chamar de **Aristec** 💻⚙🔧
 ### Sou estudante e graduando no curso de Eng. Controle e Automação pelo IFPA - Campus Belém, atualmente estou buscando novas inovações e descobertas no mundo da programação para a minha área, amo realizar projetos, fazer engenharia reversa em eletrônicos e jogar nas horas vagas. <br/>
 
